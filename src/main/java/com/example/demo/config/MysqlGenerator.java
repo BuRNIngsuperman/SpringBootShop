@@ -49,16 +49,16 @@ public class MysqlGenerator {
 
         // 数据源配置
         DataSourceConfig dsc = new DataSourceConfig();
-        dsc.setUrl("jdbc:mysql://localhost:3306/data_demo?useUnicode=true&useSSL=false&characterEncoding=utf8");
+        dsc.setUrl("jdbc:mysql://192.168.2.120:3306/data_demo?useUnicode=true&useSSL=false&characterEncoding=utf8");
         // dsc.setSchemaName("public");
         dsc.setDriverName("com.mysql.cj.jdbc.Driver");
         dsc.setUsername("root");
-        dsc.setPassword("admin");
+        dsc.setPassword("1107@Jqy");
         mpg.setDataSource(dsc);
 
         // 包配置
         PackageConfig pc = new PackageConfig();
-        //这里有个模块名的配置，可以注释掉不用。
+        //这里有个模块名的配置，假如只使用一个模块可以注释掉不用。
 //        pc.setModuleName(scanner("模块名"));
 //        pc.setParent("com.zhouxiaoxi.www");
         pc.setParent(scanner("模块地址"));
@@ -116,7 +116,7 @@ public class MysqlGenerator {
 
         // 策略配置
         StrategyConfig strategy = new StrategyConfig();
-        //数据库表映射到实体的明明策略
+        //数据库表映射到实体的，命名策略
         strategy.setNaming(NamingStrategy.underline_to_camel);
         //数据库表字段映射到实体的命名策略, 未指定按照 naming 执行
         strategy.setColumnNaming(NamingStrategy.underline_to_camel);
@@ -131,7 +131,7 @@ public class MysqlGenerator {
 //        strategy.setSuperEntityColumns("id");
         //驼峰转连字符
         strategy.setControllerMappingHyphenStyle(true);
-        //表前缀
+        //数据库表前缀
 //        strategy.setTablePrefix(pc.getModuleName() + "_");
         mpg.setStrategy(strategy);
         mpg.setTemplateEngine(new FreemarkerTemplateEngine());

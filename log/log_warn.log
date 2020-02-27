@@ -1,284 +1,33 @@
-2020-02-21 09:07:26.756 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:07:26.758 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:07:29.947 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:09:16.465 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:09:16.467 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:09:18.430 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:34:42.478 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:34:42.479 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:34:44.086 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:35:52.615 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:35:52.616 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:35:54.246 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:36:19.200 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:36:19.201 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:36:20.761 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:44:53.063 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:44:53.063 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:44:54.655 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:49:17.767 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:49:17.768 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:49:19.423 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:51:25.464 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:51:25.464 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:51:27.007 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:53:26.465 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:53:26.466 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:53:28.013 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:59:02.641 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 09:59:02.643 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 09:59:04.192 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 09:59:08.578 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 09:59:08.578 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 09:59:08.587 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 09:59:08.587 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 09:59:08.671 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 09:59:08.696 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 09:59:18.253 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 09:59:18.258 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 09:59:18.261 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 09:59:18.264 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 09:59:18.285 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 09:59:18.407 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /favicon.ico
-2020-02-21 10:01:56.011 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:01:56.011 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:01:56.021 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:01:56.023 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:01:56.044 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:05:58.517 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:05:58.517 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:06:00.134 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:06:10.887 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:06:10.887 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:06:11.027 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:06:11.044 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:06:11.061 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:07:35.707 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:07:35.707 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:07:37.352 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:07:43.955 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:07:43.962 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:07:43.981 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:12:17.155 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:12:17.158 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:12:18.722 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:12:36.750 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:12:36.750 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:12:36.858 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:12:36.865 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:12:36.887 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /favicon.ico
-2020-02-21 10:15:46.582 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:15:46.584 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:15:48.278 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:15:52.814 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:15:52.814 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:15:52.816 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:15:52.909 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:15:52.925 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:16:43.562 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:16:43.566 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:16:43.566 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:16:43.573 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:16:43.576 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:16:43.581 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:16:54.578 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:16:54.579 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:16:56.180 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:17:00.560 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:17:00.560 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:17:00.560 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:00.560 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:17:00.630 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:00.633 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:17:10.580 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:17:10.583 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:17:10.586 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:10.586 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:17:10.603 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:17:12.396 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:17:12.396 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:17:12.399 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:17:12.400 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:12.407 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:17:12.410 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:17:12.425 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:28.816 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:17:28.816 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:17:28.818 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:28.818 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:17:28.825 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:17:28.829 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:17:58.467 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:17:58.468 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:18:00.258 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:18:05.451 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:18:05.451 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:18:05.451 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:05.562 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:05.566 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:18:08.915 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:18:08.916 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:18:08.916 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:08.926 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:18:08.938 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:17.702 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:18:17.709 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:18:17.710 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:17.790 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:18:17.810 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:18:17.816 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /favicon.ico
-2020-02-21 10:19:31.648 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:19:31.652 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:19:31.652 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:19:31.658 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:19:31.662 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:19:31.677 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:19:32.337 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:19:32.340 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:19:32.340 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:19:32.348 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:19:32.535 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:19:32.537 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:19:32.537 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:19:32.544 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:19:32.549 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:19:32.561 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:19:49.122 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:19:49.122 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:19:50.772 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:20:07.430 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:20:07.430 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:20:07.430 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:20:07.430 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:20:07.548 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:20:07.564 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:24:00.050 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:24:00.051 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:24:01.814 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:24:11.318 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:24:11.318 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:24:11.325 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:24:11.325 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/jquery-1.11.0.min.js
-2020-02-21 10:24:11.436 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:24:11.456 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /js/bootstrap.js
-2020-02-21 10:24:11.472 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /favicon.ico
-2020-02-21 10:24:53.395 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:24:53.395 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:24:55.078 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:40:49.580 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:40:49.580 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:40:51.480 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:49:24.497 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:49:24.497 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:49:26.187 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:54:05.938 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:54:05.939 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:54:07.586 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:54:14.428 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:54:14.599 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:54:14.602 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:56:22.467 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:56:22.467 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:56:24.105 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:56:28.334 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:56:28.334 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:56:28.434 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:56:28.475 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:56:28.536 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:56:28.537 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:56:28.557 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /favicon.ico
-2020-02-21 10:56:36.040 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:56:36.041 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:56:36.046 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:56:36.139 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:56:36.169 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:56:36.171 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:56:36.981 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:56:36.981 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:56:36.985 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:56:37.085 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:56:37.118 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:56:37.118 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:56:38.255 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:56:38.255 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:56:38.259 [http-nio-8888-exec-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:56:38.364 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:56:38.400 [http-nio-8888-exec-7] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:56:38.401 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:57:18.307 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:57:18.308 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:57:20.217 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 10:57:36.349 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:57:36.349 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:57:36.349 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:57:36.486 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:57:36.486 [http-nio-8888-exec-10] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:57:36.508 [http-nio-8888-exec-9] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:58:00.357 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/bootstrap.css
-2020-02-21 10:58:00.359 [http-nio-8888-exec-3] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/yanzhengma.JPG
-2020-02-21 10:58:00.359 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /css/menu.css
-2020-02-21 10:58:00.380 [http-nio-8888-exec-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /top-part.html
-2020-02-21 10:58:00.380 [http-nio-8888-exec-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /search-part.html
-2020-02-21 10:58:00.387 [http-nio-8888-exec-8] WARN  org.springframework.web.servlet.PageNotFound - No mapping for GET /images/border.png
-2020-02-21 10:58:52.113 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 10:58:52.115 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 10:58:53.893 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 11:00:49.343 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 11:00:49.344 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 11:00:50.997 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 11:02:13.444 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 11:02:13.445 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 11:02:15.164 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 11:03:41.389 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 11:03:41.390 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 11:03:43.248 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:02:38.142 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:02:38.142 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:02:40.136 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:03:23.180 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:03:23.181 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:03:25.077 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:21:30.081 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:21:30.082 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:21:31.631 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:28:32.758 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:28:32.758 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:28:34.007 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:46:00.827 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:46:00.828 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:46:02.013 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 14:49:23.864 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 14:49:23.864 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 14:49:25.685 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 15:18:37.677 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 15:18:37.677 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 15:18:59.377 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper' defined in file [D:\Maven\demo\target\classes\com\example\demo\mapper\UserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: GlobalConfigUtils setMetaData Fail !  Cause:com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
-2020-02-21 15:20:39.078 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 15:20:39.078 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 15:21:00.724 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper' defined in file [D:\Maven\demo\target\classes\com\example\demo\mapper\UserMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: GlobalConfigUtils setMetaData Fail !  Cause:com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
-
-The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
-2020-02-21 15:21:10.489 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 15:21:10.492 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 15:51:58.600 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 15:51:58.600 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 15:52:00.185 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 15:57:52.225 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 15:57:52.225 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 15:57:53.389 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 16:01:27.048 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 16:01:27.049 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 16:01:28.305 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 16:03:04.404 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 16:03:04.404 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 16:03:06.268 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 16:04:09.108 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 16:04:09.109 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 16:04:10.816 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
-2020-02-21 18:22:11.203 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 18:22:11.204 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 18:29:58.346 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
-2020-02-21 18:29:58.346 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
-2020-02-21 18:30:00.833 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 14:51:48.234 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 14:51:48.235 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 14:51:49.510 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:01:19.825 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:01:19.826 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:01:21.161 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:08:19.229 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:08:19.229 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:08:20.833 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:26:57.332 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:26:57.332 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:26:58.576 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:31:04.683 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:31:04.683 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:31:05.933 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:31:54.243 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:31:54.243 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:31:55.505 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:33:12.881 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:33:12.881 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:33:14.130 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:35:14.109 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:35:14.109 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:35:15.355 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:38:51.128 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:38:51.128 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:38:52.372 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:39:51.993 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:39:51.994 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:39:53.283 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
+2020-02-26 15:40:52.418 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.example.demo.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-02-26 15:40:52.418 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo.mapper]' package. Please check your configuration.
+2020-02-26 15:40:53.708 [main] WARN  c.b.mybatisplus.core.injector.AbstractMethod - [com.example.demo.mapper.UserMapper.selectPage] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectPage]
